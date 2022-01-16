@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600&display=swap');
 
 :root{
-   --peru:#cd9452;
-   --black:#222;
-   --white:#fff;
-   --light-black:#666;
+   --peru:#e75874;
+   --black:#3b4d61;
+   --white:#fbcbc9 ;
+   --light-black:#322514;
    --light-white:#ccc;
    --light-bg:#f5f5f5;
    --dark-bg:rgba(0,0,0,.7);
-   --border:.1rem solid #aaa;
+   --border:.1rem solid #be1558;
    --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
 }
 
